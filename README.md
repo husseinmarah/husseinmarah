@@ -1,4 +1,10 @@
-### Hi there 👋
+<p align="center">
+  <img width="800" height="300" src="/about.jpg">
+</p>
+
+## Hi there 👋
+I'm Hussein Marah, a software engineer and junior academic researcher, I have a passion to use technology to solve problems and use it for the social good.
+
 
 <!--
 **husseinmarah/husseinmarah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
