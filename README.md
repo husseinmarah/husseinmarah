@@ -1,9 +1,9 @@
 <p align="center">
-  <img width="800" height="300" src="https://github.com/husseinmarah/husseinmarah/blob/master/pictures/about_banner.png">
+  <img width="640" height="135" src="https://github.com/husseinmarah/husseinmarah/blob/master/pictures/name_logo.png">
 </p>
 
 ## Hi there 👋
-I'm Hussein Marah, a software engineer and academic researcher, I have a passion to use technology to solve problems and use it for the social good.
+I'm Hussein Marah, a software engineer and academic researcher, and I have a passion for using technology to solve problems and use it for the social good.
 
 ## How to reach me 📫
 <p align='center'>
