@@ -3,7 +3,7 @@
 </p>
 
 ## Hi there 👋
-I'm Hussein Marah, a software engineer and academic researcher, and I have a passion for using technology to solve problems and use it for the social good.
+I'm Hussein Marah, a software engineer and academic researcher. I am passionate about using technology to solve problems and use it for the social good.
 
 ## How to reach me 📫
 <p align='center'>
