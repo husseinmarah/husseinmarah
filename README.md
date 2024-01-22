@@ -4,7 +4,7 @@
 
 
 ## 🚀 About Me
-Hi there 👋, I'm Hussein Marah, a computer science and researcher. I am passionate about science and technology and strive to use my knowledge for the social good and solving problems.
+Hi there 👋, I'm Hussein Marah, a computer scientist and researcher passionate about science and technology and striving to use my knowledge for social good and solving problems.
 
 ## How to reach me 📫
 <p align='center'>
