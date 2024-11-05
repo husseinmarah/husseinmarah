@@ -3,8 +3,13 @@
 </p>
 
 
-## 🚀 About Me
-Hi there 👋, I'm Hussein Marah, a computer scientist and researcher passionate about science and technology and striving to use my knowledge for social good and solving problems.
+🚀 About Me
+--------------------------------------------------
+Hi 👋 My name is Hussein Marah
+
+🧠 What I do
+--------------------------------------------------
+I'm a Computer Scientist, Software Engineer, and Researcher who is passionate about science and technology. I strive to use my knowledge and expertise to solve complex problems and make an impact.
 
 ## How to reach me 📫
 <p align='center'>
